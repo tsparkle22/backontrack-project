@@ -26,3 +26,5 @@ a {
 ion-item-divider, .section-title, h1, h2, h3 {
   color: #003399 !important;
 }
+
+body { background-color: pink !important; }
