@@ -1,0 +1,28 @@
+/* Apply Open Sans font across the app */
+* {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+/* Header styling */
+ion-header {
+  background-color: #003399 !important;
+  color: #ffffff !important;
+}
+
+/* Primary buttons */
+ion-button {
+  background-color: #DA5C57 !important;
+  color: #ffffff !important;
+  border-radius: 8px !important;
+  font-weight: 600;
+}
+
+/* Links and interactive text */
+a {
+  color: #DA5C57 !important;
+}
+
+/* Section titles */
+ion-item-divider, .section-title, h1, h2, h3 {
+  color: #003399 !important;
+}
